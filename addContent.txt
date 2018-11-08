@@ -1,0 +1,17 @@
+1. npm run eject
+
+2. 
+"plugins": [
+      [
+        "import",
+        {
+          "libraryName": "antd-mobile",
+          "style": "css"
+        }
+      ],
+      "transform-decorators-legacy"
+    ]
+
+3. npm install
+
+4. "proxy": "http://localhost:9093"
